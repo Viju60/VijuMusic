@@ -45,19 +45,19 @@ async def start_(client: Client, message: Message):
 ┏━━━━━━━━━━━━━━━━━┓
 ★ sᴜᴘᴘᴏʀᴛ ›› @Cet_Jee_Neet_Group
 ★ ᴄʜᴀɴɴᴇʟ ›› @Cet_Jee_Neet_Poll
-★ ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› @ItsMeViju
-★ ᴏᴡɴᴇʀ ›› @ItsMeViju
+★ ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› @ItsMeVijuu
+★ ᴏᴡɴᴇʀ ›› @ItsMeVijuu
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ItsMeViju)
+ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ItsMeVijuu)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "😁ᴋɪᴅɴᴀᴘ ᴋʀ ʟᴏ ʙʜᴀʏᴀ😂", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "😁 ᴋɪᴅɴᴀᴘ ᴋʀ ʟᴏ ʙʜᴀʏᴀ 😂", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )
                 ],
                 [
