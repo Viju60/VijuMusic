@@ -36,11 +36,23 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{START_PIC}",
-        caption=f"""**A Telegram Music Bot Based Mongodb.
- Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
-💞  These Features A.I Based 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
-**""",
+        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴠɪᴊᴜ ᴍᴜꜱɪᴄ ʙᴏᴛ
+
+➥ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ..
+
+┏━━━━━━━━━━━━━━━━━┓
+★ sᴜᴘᴘᴏʀᴛ ›› @Cet_Jee_Neet_Group
+★ ᴄʜᴀɴɴᴇʟ ›› @Cet_Jee_Neet_Poll
+★ ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› @ItsMeViju
+★ ᴏᴡɴᴇʀ ›› @ItsMeViju
+┗━━━━━━━━━━━━━━━━━┛
+
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ItsMeViju)
+
+━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
