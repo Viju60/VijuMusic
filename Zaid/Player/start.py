@@ -57,15 +57,15 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "😁ᴋɪᴅɴᴀᴘ ᴋʀ ʟᴏ ʙʜᴀʏᴀ😂", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "✨ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ✨", url=f"https://t.me/VijuMusicSupport/5"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "✮ ᴏᴡɴᴇʀ ✮", url="https://t.me/itsmevijuu"
                     )
                 ],
                 [
